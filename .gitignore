@@ -1,0 +1,44 @@
+###
+### VISUAL STUDIO 
+###
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+###
+### OPERATING SYSTEM
+###
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+###
+### UNITY
+###
+**/[Ll]ibrary/
+**/[Tt]emp/
+[Bb]uild/
+*.unitypackage
+*.pidb.meta
+
+# Unity generated Visual Studio
+/*.csproj
+/*.sln
+
+### 
+### GAMEWORK
+###
+# GameWork.Core
+/Assets/GameWork
+/Assets/GameWork.meta
