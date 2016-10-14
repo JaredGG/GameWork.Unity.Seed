@@ -2,6 +2,7 @@
 
 # Copy Gamework.Core into GameWork.unity
 pushd ../GameWork.Unity/Tools
+chmod u+x ./Copy_GameWorkCore.command
 ./Copy_GameWorkCore.command
 popd
 
